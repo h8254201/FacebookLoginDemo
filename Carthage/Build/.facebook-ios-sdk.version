@@ -1,0 +1,41 @@
+{
+  "iOS" : [
+    {
+      "hash" : "1d955815ae1f1d1c4b6b43af825059bf7b0664f1ea831a06a9fa448ef9b7c2e1",
+      "name" : "FBSDKPlacesKit"
+    },
+    {
+      "hash" : "c835d12bdd11be819a44c6e829e55368ec6328011e8bc7c94494d7d428e6e67f",
+      "name" : "FBSDKLoginKit"
+    },
+    {
+      "hash" : "0b18865d34fea08888b5289525df544bb633f61a3fac4268a664a8c73ac34d34",
+      "name" : "FBSDKShareKit"
+    },
+    {
+      "hash" : "99e61eab5b0052263ae1c8bd976289cdd5ede3e47232073cfba09fb433d9747d",
+      "name" : "FBSDKCoreKit"
+    }
+  ],
+  "commitish" : "sdk-version-4.27.1",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "hash" : "159ec6c2d16e9e5ae654a2962251c30a124998d3eb0c1e7a6249656ae9c6f2c9",
+      "name" : "FBSDKTVOSKit"
+    },
+    {
+      "hash" : "9cd8dfab233fde6f05e27f1716d173e2b4f64f5e6beb26e59d65021c2a45edca",
+      "name" : "FBSDKShareKit"
+    },
+    {
+      "hash" : "8a8d570dcdc56bec824df3d3221353ce1787e4b20434d97cd434e759fd0c300b",
+      "name" : "FBSDKCoreKit"
+    }
+  ],
+  "Mac" : [
+
+  ]
+}
