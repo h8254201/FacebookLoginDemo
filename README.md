@@ -20,6 +20,11 @@
     FacebookCore.framework
     FacebookShare.framework
 
+## If you don't use CocoaPods or Carthage
+you have to download [IOS SDK](https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip) to Import
+
+then go **Build Settings** to add framework path to **Framework Search Paths**
+
 ## Set FB Account to Developer
 [to become developer](https://developers.facebook.com/?advanced_app_create=true)
 
@@ -123,7 +128,6 @@ Login Facebook to countinue
     }
     func loginButtonWillLogin(_ loginButton: FBSDKLoginButton!) -> Bool {
         return true
-    }
     }
     override func viewDidLoad() {
         super.viewDidLoad()
