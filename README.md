@@ -52,7 +52,7 @@ Login Facebook to countinue
 	<dict>
 		<key>CFBundleURLSchemes</key>
 		<array>
-        <string>fb{你Facebook Developer那個應用程式的ID}</string>
+        <string>fb{你Facebook Developer那個應用程式的ID}</string>
 		</array>
 	</dict>
 </array>
