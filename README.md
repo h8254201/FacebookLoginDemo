@@ -36,7 +36,7 @@ Login Facebook to countinue
 - 1.add apps
 - 2.set name(whatever)
 - 3.choose platform
-- 4.step too step.....
+- 4.step to step.....
 
 ## Set Info.plist
 ```
